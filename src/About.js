@@ -2,10 +2,11 @@ import React from 'react'
 
 const About = () => {
   return (
-        <main>
-            <h1>about</h1>
-        </main>
-  )
+    <main className='About'>
+        <h2>About</h2>
+        <p style={{ marginTop: "1rem" }}>This blog app is a project to learn some basic functioning of react.</p>
+    </main>
+)
 }
 
 export default About

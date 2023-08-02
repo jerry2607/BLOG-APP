@@ -15,7 +15,7 @@ const Nav = ({search,setSearch}) => {
         <ul>
           <li><Link to='/'>Home</Link></li>
           <li><Link to='/about'>About</Link></li>
-          <li><Link to='/allPost'>Post</Link></li>
+          <li><Link to='/newPost'>Post</Link></li>
         </ul>
       </nav>
   )
